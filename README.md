@@ -1,1 +1,1 @@
-# Hypothesis Testing in Healthcare - Drug Safety projet
+# Hypothesis Testing in Healthcare - Drug Safety project
